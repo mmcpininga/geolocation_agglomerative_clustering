@@ -3,7 +3,7 @@ Geolocation Clustering using the Agglomerative Algorithm
 
 O problema consiste em agrupar os dados (coordenadas de latitude e longitude) com base na sua geolocalização e respeitando as restrições.
 
-Restrição: 1) Distância máxima de 0.8km entre os pontos e seu centróide.
+Restrição: 1) Distância máxima de 1.6km entre os pontos e seu centróide.
 
 A figura abaixo mostra os pontos em azul antes do agrupamento com o algoritmo aglomerativo.
 
