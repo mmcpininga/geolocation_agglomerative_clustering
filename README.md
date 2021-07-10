@@ -17,6 +17,6 @@ Utilizando o algoritmo aglomerativo, o problema foi resolvido já que foi respei
 ![image](https://user-images.githubusercontent.com/18504119/120856300-049a1c00-c556-11eb-8c12-1540e2ba40ea.png)
 
 
-Installation
-$ pip install folium
+Installation:
+pip install folium
 
